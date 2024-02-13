@@ -1,0 +1,10 @@
+::placeholder{color:#adadad !important;}
+.ml-10{margin-left: 10px;}
+#keyword_searching{max-width: 50% !important;}
+@media (max-width: 575.98px) {
+  #keyword_searching{max-width: 77% !important;}
+}
+.waiting {height: 100%;width:100%;display: table;}
+.waiting i{font-size:60px;display: table-cell; vertical-align: middle;padding:10px 0;}
+.waiting {padding-top: 50px;}
+.bbw{border-bottom-width: thin !important;border-bottom:solid .5px #f9f9f9 !important;padding-bottom:20px;}
